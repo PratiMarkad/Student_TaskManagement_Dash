@@ -1,0 +1,2 @@
+root: D:\Task_Management_dashboard\nvm
+path: C:\Program Files\nodejs
